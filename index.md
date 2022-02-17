@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## "Everything is everywhere, but the environment selects"
 
-You can use the [editor on GitHub](https://github.com/qirickyliu/qirickyliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Qi Ricky Liu. I am a PhD student at Royal NIOZ & Utrecht University, Netherlands. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Key words of research interests: Mechanical modeling; Fluid mechanics; Artificial life; Computational biology; Systems biology; Emerging; Self-organization; Swarm intelligence; Complexity science; Systems science; Agent-based modeling; Multi-agent system; Molecular biology; Microbes; Quorum sensing; Genomics; Metabonomics
 
-### Markdown
+### Bio
+![photo](https://user-images.githubusercontent.com/68505835/154570809-187fc605-5ec2-4623-bc3e-1724b45f09af.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have an interdisciplinary educational background of fluid mechanics, aquatic ecology and biogeochemistry, combining science and engineering. 
 
 ```markdown
-Syntax highlighted code block
+Sep.2021-     Ph.D. student  
+Doctor of Philosophy in Earth Sciences
+        Department of Estuarine and Delta Systems, Royal Netherlands Institute for Sea Research, Netherlands
+        Faculty of Geosciences, Department of Earth Sciences, Utrecht University, Utrecht, Netherlands
 
-# Header 1
-## Header 2
-### Header 3
+Sep.2018-Jun.2021     M.S.  
+Master of Science in Hydraulics and Aquatic Ecology
+          School of Environment, Beijing Normal University (BNU), Beijing, China 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Sep.2014-Jul.2018      B.S.  
+Bachelor of Engineering in Hydrodynamics
+           Faculty of Infrastructure Engineering, Dalian University of Technology (DUT), Dalian, China 
+Minor degree in Mathematical Modelling
+           Mathematics Innovation Class, Dalian University of Technology (DUT), Dalian, China
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### PhD project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qirickyliu/qirickyliu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The topic of my PhD focus on the interactions of physical, biological and geochemical processes in a complex dynamic system. I deploy high-resolution microsensors to collect data in situ then input it into SOTA mechanictic model and date-driven model, finally output prediction under different future scenarios to enhance our understanding for global enviromnetal change.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+qi.liu@nioz.nl
