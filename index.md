@@ -6,6 +6,7 @@ Key words of research interests: Mechanical modeling; Fluid mechanics; Artificia
 
 ### Research interests: 
 1.theoratical and methodological research
+
 a.coupling of physical and biological model
 To couple different physical fields and biological processes is needed in many scenarios. Under this topic, the one that interests me mostly is to incorporate physical(temperature, irradiance, hydrodynamic) factors to simulate the microbial activities(photosynthesis, respiration, nutrient absorption, trophic coupled, vertical immigration) in sediment-water interface system to predict their environmental effects(biogeochemical cycles). The reason why I found this work interesting is that it involves physics, chemistry, biology and use mathematical and computer science tools —— which is perfect for a young man who is devoted to all science domains and don't know which specific to study!
 
