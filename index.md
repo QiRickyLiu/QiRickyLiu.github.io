@@ -18,6 +18,7 @@ c.emergence and swarm intelligence in complex systems
 Multi-agents work as a whole and exhibit capability that's almost impossible as an individual——isn't it amazing! This topic can not only provide inspirations for the origin of life, but also have significance for bionic areas like robotics. The modelling system I concentrate on is microbiology system (like biofilms), which functions as a whole and even can be seen as some kind of new individual life! The approaches can be Agent-based model(ABM) and other algorithms. 
 
 2.applied and engineering research
+
 a.synthetic biology-establishing artificial biosystem
 Inventing life is God's work, but guess what? God also give human the intelligence that's unique among all the life forms! That's why scientists and engineers try to "design" cell like electric circuit to make it produce what we need or even work as computing tool to solve problems.
 
