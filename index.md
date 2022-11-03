@@ -1,8 +1,9 @@
-## "mathematic modeling in life systems_Everything is everywhere, but the environment selects"
+## "mathematic modeling in physics-biology coupled systems"
+——Everything is everywhere, but the environment selects
 
-My name is Qi Ricky Liu. I am a PhD student at Royal NIOZ & Utrecht University, Netherlands. 
+My name is Qi (Ricky Liu). I am a PhD candidate at Royal NIOZ & Utrecht University, Netherlands. 
 
-Key words of research interests: Mechanical modeling; Fluid mechanics; Artificial life; Computational biology; Systems biology; Emerging; Self-organization; Swarm intelligence; Complexity science; Systems science; Agent-based modeling; Multi-agent system; Molecular biology; Microbes; Quorum sensing; Genomics; Metabonomics
+Key words of research interests: Mechanistic modeling; Computational Fluid Mechanics; Artificial life; Computational biology; Systems biology; Emerging; Self-organization; Swarm intelligence; Complexity science; Systems science; Agent-based modeling; Multi-agent system; Molecular biology; Microbes; Quorum sensing; Genomics; Metabonomics
 
 ### Research interests: 
 1.theoratical and methodological research
@@ -28,26 +29,26 @@ The most promising prospect of nano-robots is to send them into human bodies to 
 ### Bio
 ![photo](https://user-images.githubusercontent.com/68505835/154570809-187fc605-5ec2-4623-bc3e-1724b45f09af.jpg)
 
-I have an interdisciplinary educational background of fluid mechanics, computational biology and mathematics, combining science and engineering. 
+I have an interdisciplinary educational background of computational fluid mechanics, computational biology and mathematical modeling, combining science and engineering. 
 
 ```markdown
 Sep.2021-     Ph.D. student  
-Doctor of Philosophy in Earth Sciences
+Doctor of Philosophy in Earth and Environmental Modeling
         Department of Estuarine and Delta Systems, Royal Netherlands Institute for Sea Research, Netherlands
         Faculty of Geosciences, Department of Earth Sciences, Utrecht University, Utrecht, Netherlands
 
-Sep.2018-Jun.2021     M.S.  
-Master of Science in Hydraulics and Aquatic Ecology
+Sep.2018-Jun.2021     M.Eng.  
+Master of Engineering in Computational Fluid Dynamics
           School of Environment, Beijing Normal University (BNU), Beijing, China 
 
-Sep.2014-Jul.2018      B.S.  
-Bachelor of Engineering in Hydrodynamics
+Sep.2014-Jul.2018      B.Eng.  
+Bachelor of Engineering in Civil and Environmental Engineering
            Faculty of Infrastructure Engineering, Dalian University of Technology (DUT), Dalian, China 
-Minor degree in Mathematical Modelling
+Minor in Mathematical Modelling
            Mathematics Innovation Class, Dalian University of Technology (DUT), Dalian, China
 ```
 ### skill sets
-Scientific computing; computational fluid mechanics; mechanistic modeling in R; Nano-sims; microsensors
+Scientific computing; computational fluid mechanics; mechanistic modeling in R
 
 ### PhD project
 
