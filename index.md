@@ -32,20 +32,20 @@ The most promising prospect of nano-robots is to send them into human bodies to 
 I have an interdisciplinary educational background of computational fluid mechanics, computational biology and mathematical modeling, combining science and engineering. 
 
 ```markdown
-Sep.2021-     Ph.D. student  
+Sep.2021-Aug.2025     Ph.D.   
 Doctor of Philosophy in Earth and Environmental Modeling
-        Department of Estuarine and Delta Systems, Royal Netherlands Institute for Sea Research, Netherlands
-        Faculty of Geosciences, Department of Earth Sciences, Utrecht University, Utrecht, Netherlands
+Department of Estuarine and Delta Systems, Royal Netherlands Institute for Sea Research, Netherlands
+Faculty of Geosciences, Department of Earth Sciences, Utrecht University, Utrecht, Netherlands
 
 Sep.2018-Jun.2021     M.Eng.  
 Master of Engineering in Computational Fluid Dynamics
-          School of Environment, Beijing Normal University (BNU), Beijing, China 
+School of Environment, Beijing Normal University (BNU), Beijing, China 
 
-Sep.2014-Jul.2018      B.Eng.  
+Sep.2014-Jul.2018     B.Eng.  
 Bachelor of Engineering in Civil and Environmental Engineering
-           Faculty of Infrastructure Engineering, Dalian University of Technology (DUT), Dalian, China 
+Faculty of Infrastructure Engineering, Dalian University of Technology (DUT), Dalian, China 
 Minor in Mathematical Modelling
-           Mathematics Innovation Class, Dalian University of Technology (DUT), Dalian, China
+Mathematics Innovation Class, Dalian University of Technology (DUT), Dalian, China
 ```
 ### skill sets
 Scientific computing; computational fluid mechanics; mechanistic modeling in R
@@ -56,4 +56,4 @@ The topic of my PhD focus on the interactions of physical, biological and geoche
 
 ### Contact
 
-qi.liu@nioz.nl
+qi.liu@nioz.nl, qliu3@uu.nl
