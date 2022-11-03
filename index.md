@@ -48,7 +48,7 @@ Minor in Mathematical Modelling
 Mathematics Innovation Class, Dalian University of Technology (DUT), Dalian, China
 ```
 ### skill sets
-Scientific computing; computational fluid mechanics; mechanistic modeling in R
+scientific computing; numerical modeling; software development
 
 ### PhD project
 
