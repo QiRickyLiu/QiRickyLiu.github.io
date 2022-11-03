@@ -1,7 +1,7 @@
 ## "mathematic modeling in physics-biology coupled systems"
 ——Everything is everywhere, but the environment selects
 
-My name is Qi (Ricky Liu). I am a PhD candidate at Royal NIOZ & Utrecht University, Netherlands. 
+My name is Qi (Ricky) Liu. I am a PhD candidate at Royal NIOZ & Utrecht University, Netherlands. 
 
 Key words of research interests: Mechanistic modeling; Computational Fluid Mechanics; Artificial life; Computational biology; Systems biology; Emerging; Self-organization; Swarm intelligence; Complexity science; Systems science; Agent-based modeling; Multi-agent system; Molecular biology; Microbes; Quorum sensing; Genomics; Metabonomics
 
