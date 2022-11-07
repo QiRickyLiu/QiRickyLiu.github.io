@@ -104,7 +104,8 @@ Short introduction:Temperature has a great influence on the rate of physiologica
 Short introduction:We set up micro-sensors to capture the rate data of microbial physiological and biochemical reactions in the natural environment, and further designed experiments to obtain more parameters under temperature conditions. On this basis, we established a mathematical model of microbial photosynthesis and respiration. Coupled with the temperature physical model established in the previous study, we can gain more insight into how temperature affects the physiological and biochemical reactions of microorganisms and thus the elemental cycles in nature, and make more accurate predictions of biogeochemical responses to future scenarios of extreme weather.
 
 ## Master dissertation download(only in Chinese)
-Study on the response of complex ecosystem under the influence of water and sediment dynamics. Thesis defense in June 2021.
+Study on the response of complex ecosystem under the influence of water and sediment dynamics. Thesis defense in June 2021.[Study on the response of complex ecosystem under the influence of water and sediment dynamics.pdf](https://github.com/qirickyliu/qirickyliu.github.io/files/9950433/Study.on.the.response.of.complex.ecosystem.under.the.influence.of.water.and.sediment.dynamics.pdf)
+
 
 ## Conference
 1.Fish communities respond to the variations of water and sediment fluxes to the estuary. National Graduate Environmental Forum of China. Tongji University in Shanghai, China. November 2020. Oral report.
