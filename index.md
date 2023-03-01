@@ -3,20 +3,20 @@
 
 My name is Qi (Ricky) Liu. I am a PhD candidate at Royal NIOZ & Utrecht University, Netherlands. 
 
-Key words of research: Numerical modeling; Computational fluid mechanics; Mathematical biology; Artificial life; Emerging; Swarm intelligence; Complexity science; Systems science
+Key words of research: Hydrodynamic model; Mathematical biology; Biogeochemical model; reactive-transport modeling
 
 ### Bio
 
-I have an interdisciplinary educational background of computational fluid mechanics, computational biology and mathematical modeling, combining science and engineering. 
+I have an interdisciplinary educational background of computational fluid mechanics, aquatic ecology and mathematical modeling, combining science and engineering. 
 
 ```markdown
 Sep.2021-Aug.2025     Ph.D.   
-Doctor of Philosophy in Earth and Environmental Modeling
+Doctor of Philosophy in Environmental Modeling
 Department of Estuarine and Delta Systems, Royal Netherlands Institute for Sea Research, Netherlands
 Faculty of Geosciences, Department of Earth Sciences, Utrecht University, Utrecht, Netherlands
 
 Sep.2018-Jun.2021     M.Eng.  
-Master of Engineering in Computational Fluid Dynamics
+Master of Engineering in Computational Environmental Fluid Dynamics
 School of Environment, Beijing Normal University (BNU), Beijing, China 
 
 Sep.2014-Jul.2018     B.Eng.  
@@ -35,16 +35,13 @@ b.the combination of mechanistic model and machine learning
 I believe that true science has to be explainable, which means we have to figure out the mechanism behind the phenomenon, not only find the correlation. And these are usually in the form of partial differencial equation(PDE). In other words, we use PDEs to describe the function of how state variables vary with time, space and other variables, which are usually clear physical or chemical laws. Data from experiment or field observations provide parameters, new formulas and calibration/validation. However, the rapid development of artificial intelligence methods also show great power in predicting future situations, especially we are living in a world full of data. To combine physics-based model and data-driven model can be exciting work.    
 ![image](https://user-images.githubusercontent.com/68505835/178513224-21bff22d-c357-489d-804d-25a7978a2f12.png)
 
-c.emergence and swarm intelligence in complex systems
-Multi-agents work as a whole and exhibit capability that's almost impossible as an individual——isn't it amazing! This topic can not only provide inspirations for the origin of life, but also have significance for bionic areas like robotics. The modelling system I concentrate on is microbiology system (like biofilms), which functions as a whole and even can be seen as some kind of new individual life! The approaches can be Agent-based model(ABM) and other algorithms. 
-
 2.From a applied and engineering perspective
 
-a.establishing artificial biosystem
+a.understanding natural ecosystem
+
+b.establishing artificial biosystem
 Inventing life is God's work, but guess what? God also give human the intelligence that's unique among all the life forms! That's why scientists and engineers try to "design" cell like electric circuit to make it produce what we need or even work as computing tool to solve problems. The most promising field is to establish and optimize artificial ecosystem to yield biofuels or medicine that are highly demanded by human society. This is also somewhere we can see the power of mathematical modeling and computer science for biology.
 
-b.swarm-robots
-Once we get inspiration from emergence and complexity of life systems, we can apply these principles to design swarm robots. The most promising prospect is to send them into human bodies to destroy cancer cells or transport medicine accurately. Of course to degrade environmental pollutants is also super cool!
 
 
 ### Skill sets
